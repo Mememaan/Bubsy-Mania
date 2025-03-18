@@ -1,0 +1,10 @@
+^C:\USERS\FLORE\DOCUMENTS\PROJECTS\DECOMPS\SONIC MANIA\BUBSY-MANIA\DEPENDENCIES\RSDKV5\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/flore/Documents/Projects/Decomps/Sonic Mania/Bubsy-Mania" "-BC:/Users/flore/Documents/Projects/Decomps/Sonic Mania/Bubsy-Mania/build" --check-stamp-file "C:/Users/flore/Documents/Projects/Decomps/Sonic Mania/Bubsy-Mania/build/dependencies/RSDKv5/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

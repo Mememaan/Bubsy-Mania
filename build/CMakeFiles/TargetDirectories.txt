@@ -1,0 +1,5 @@
+C:/Users/flore/Documents/Projects/Decomps/Sonic Mania/Bubsy-Mania/build/CMakeFiles/SonicMania.dir
+C:/Users/flore/Documents/Projects/Decomps/Sonic Mania/Bubsy-Mania/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/flore/Documents/Projects/Decomps/Sonic Mania/Bubsy-Mania/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/flore/Documents/Projects/Decomps/Sonic Mania/Bubsy-Mania/build/dependencies/RSDKv5/CMakeFiles/RetroEngine.dir
+C:/Users/flore/Documents/Projects/Decomps/Sonic Mania/Bubsy-Mania/build/dependencies/RSDKv5/CMakeFiles/ALL_BUILD.dir

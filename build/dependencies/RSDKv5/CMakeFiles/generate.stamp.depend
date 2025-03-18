@@ -1,0 +1,13 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeFindDependencyMacro.cmake
+C:/Users/flore/Documents/Projects/Decomps/Sonic Mania/Bubsy-Mania/dependencies/RSDKv5/CMakeLists.txt
+C:/Users/flore/Documents/Projects/Decomps/Sonic Mania/Bubsy-Mania/dependencies/RSDKv5/platforms/Windows.cmake
+C:/Users/flore/Documents/Projects/Decomps/Sonic Mania/vcpkg/installed/x64-windows-static/share/ogg/OggConfig.cmake
+C:/Users/flore/Documents/Projects/Decomps/Sonic Mania/vcpkg/installed/x64-windows-static/share/ogg/OggConfigVersion.cmake
+C:/Users/flore/Documents/Projects/Decomps/Sonic Mania/vcpkg/installed/x64-windows-static/share/ogg/OggTargets-debug.cmake
+C:/Users/flore/Documents/Projects/Decomps/Sonic Mania/vcpkg/installed/x64-windows-static/share/ogg/OggTargets-release.cmake
+C:/Users/flore/Documents/Projects/Decomps/Sonic Mania/vcpkg/installed/x64-windows-static/share/ogg/OggTargets.cmake
+C:/Users/flore/Documents/Projects/Decomps/Sonic Mania/vcpkg/installed/x64-windows-static/share/unofficial-theora/unofficial-theora-config.cmake
+C:/Users/flore/Documents/Projects/Decomps/Sonic Mania/vcpkg/installed/x64-windows-static/share/unofficial-theora/unofficial-theora-targets-debug.cmake
+C:/Users/flore/Documents/Projects/Decomps/Sonic Mania/vcpkg/installed/x64-windows-static/share/unofficial-theora/unofficial-theora-targets-release.cmake
+C:/Users/flore/Documents/Projects/Decomps/Sonic Mania/vcpkg/installed/x64-windows-static/share/unofficial-theora/unofficial-theora-targets.cmake

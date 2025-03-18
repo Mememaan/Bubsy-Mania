@@ -1,0 +1,10 @@
+^C:\USERS\FLORE\DOCUMENTS\PROJECTS\DECOMPS\SONIC MANIA\BUBSY-MANIA\BUILD\CMAKEFILES\2F11CE0B8E89F73E0AE311897474EA84\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/flore/Documents/Projects/Decomps/Sonic Mania/Bubsy-Mania" "-BC:/Users/flore/Documents/Projects/Decomps/Sonic Mania/Bubsy-Mania/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/flore/Documents/Projects/Decomps/Sonic Mania/Bubsy-Mania/build/SonicMania.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

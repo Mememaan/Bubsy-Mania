@@ -84,7 +84,7 @@ void HUD_Draw(void)
     EntityPlayer *player = RSDK_GET_ENTITY(SceneInfo->currentScreenID, Player);
 
     Vector2 drawPos;
-    Vector2 scorePos, timePos, ringPos, lifePos;
+    Vector2 scorePos, timePos, ringPos, lifePos, bubsyPos;
 
     scorePos.x = self->scorePos.x;
     scorePos.y = self->scorePos.y;
@@ -94,6 +94,10 @@ void HUD_Draw(void)
     ringPos.y  = self->ringsPos.y;
     lifePos.x  = self->lifePos.x;
     lifePos.y  = self->lifePos.y;
+
+    bubsyPos.x  = self->bubsyPos.x;
+    bubsyPos.y  = self->bubsyPos.y;   
+     
     if (globals->gameMode == MODE_COMPETITION) {
 #if MANIA_USE_PLUS
         scorePos.x = self->vsScorePos[SceneInfo->currentScreenID].x;

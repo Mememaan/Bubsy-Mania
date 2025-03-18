@@ -44,6 +44,8 @@ struct EntityHUD {
     Vector2 timePos;
     Vector2 ringsPos;
     Vector2 lifePos;
+
+    Vector2 bubsyPos;    
 #if MANIA_USE_PLUS
     int32 lifeFrameIDs[PLAYER_COUNT];
     int32 lives[PLAYER_COUNT];
@@ -72,6 +74,8 @@ struct EntityHUD {
     Animator hyperNumbersAnimator;
     Animator lifeIconAnimator;
     Animator playerIDAnimator;
+
+    Animator bubsyAnimator;    
 #if GAME_VERSION != VER_100
     Animator superIconAnimator;
     Animator superButtonAnimator;
